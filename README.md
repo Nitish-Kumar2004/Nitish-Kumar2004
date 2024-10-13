@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nitish-Kumar2004
-- 👀 I’m interested in QA Enginer
+- 👀 I’m interested in QA Engineer
 - 🌱 I’m currently learning Automation Testing
 
 <!---
